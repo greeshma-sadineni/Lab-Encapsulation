@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.exe
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.deps.json
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.runtimeconfig.json
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.runtimeconfig.dev.json
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.dll
+F:\.Net Programs\Lab Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.pdb
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.AssemblyInfo.cs
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.dll
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.pdb
+F:\.Net Programs\Lab Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.genruntimeconfig.cache

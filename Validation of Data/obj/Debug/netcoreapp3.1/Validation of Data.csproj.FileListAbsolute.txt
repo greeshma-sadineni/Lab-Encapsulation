@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.exe
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.deps.json
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.json
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.dev.json
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.dll
+F:\.Net Programs\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.pdb
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfo.cs
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.dll
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.pdb
+F:\.Net Programs\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.exe
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.deps.json
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.runtimeconfig.json
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.runtimeconfig.dev.json
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.dll
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\bin\Debug\netcoreapp3.1\Lab Encapsulation.pdb
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.AssemblyInfo.cs
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.dll
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.pdb
+F:\.Net Programs\Lab Encapsulation\Lab Encapsulation\obj\Debug\netcoreapp3.1\Lab Encapsulation.genruntimeconfig.cache

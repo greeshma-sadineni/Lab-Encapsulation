@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.exe
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.deps.json
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.runtimeconfig.json
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.runtimeconfig.dev.json
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.dll
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.pdb
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.AssemblyInfo.cs
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.dll
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.pdb
+F:\.Net Programs\Lab Encapsulation\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.genruntimeconfig.cache
